@@ -1,4 +1,4 @@
-# Grid_based_FDRI(작업중)
+# Grid_based_FDRI
 
 * `격자기반 홍수피해위험지수(Grid based Flood Damage Risk Index)`
 * 참여연구기관 : 한국건설기술연구원, 인하대, (주)헤르메시스 
